@@ -31,7 +31,7 @@ span, a{
     color: #FF9900;
 }
 
-p {
+p , #footer{
     color: #7D7987;
     font-size: 14px;
     line-height: 28px;
@@ -39,4 +39,18 @@ p {
 
 #footer a + a{/* pegue um 'a' que tem anterior a ele um 'a' */
     margin-left: 28px;
+}
+
+.line{
+    width: 568px;
+    height: 0;
+    margin: 0 auto 8px;
+    border: 1px solid #edf2ec;
+
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
