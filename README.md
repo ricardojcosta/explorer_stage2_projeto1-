@@ -1,4 +1,4 @@
-# Projeto 01 - Curso Explorer - Rocketseat - Stage 2
+# Curso Explorer - Rocketseat - Stage 2
 
 ## Tecnologias utilizadas no projeto
 
